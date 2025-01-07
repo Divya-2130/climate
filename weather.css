@@ -136,3 +136,36 @@ body {
         color: black;
     }
 }
+@media only screen and (max-width:400px) {
+    .weather {
+        padding: 20px;
+    }
+    .weather h1 {
+        font-size: 25px;
+    }
+    .temperature {
+        font-size: 30px;
+    }
+    .location {
+        font-size: 18px;
+    }
+    .weather-data .col {
+        font-size: 18px;
+    }
+    .weather-data .col span {
+        font-size: 14px;
+    }
+    .weather-icon {
+        width: 80px;
+    }
+    .weather .search-bar button img {
+        width: 35px;
+    }
+    .weather-data .col img {
+        width: 18px;
+    }
+    button img {
+        width: 35px;
+        font-size: 35px;
+    }
+}

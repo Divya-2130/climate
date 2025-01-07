@@ -89,7 +89,7 @@ body {
         width: fit-content;
     }
     .weather input {
-        max-width: 100%;
+        max-width: 80%;
         width: fit-content;
     }
     .weather-data {
